@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Annart X</h1>
 <h3 align="center">A passionate frontend developer from Thailand</h3>
 
-- 🔭 I’m currently working on [Classroom Website](4tub4srinakorn.pages.dev)
-
-- 📫 How to reach me **contact@serenely.day**
+- 📫 How to reach me **contact@overdrive-cloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
