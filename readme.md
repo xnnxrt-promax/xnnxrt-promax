@@ -8,7 +8,7 @@ I can used Python PHP Css Java-Script and Framework Vue.js Bootstrap
 
 * 🌍  I'm based in Bangkok - Thailand
 * ✉️  You can contact me at [contact@overdrive-cloud.com](mailto:contact@overdrive-cloud.com)
-* 🧠  I'm learning Vue.js, Type-Script
+* 🧠  I'm learning Vite, React
 
 <a href="https://www.github.com/xnnxrt-promax" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/xnnxrt-promax?logo=github&style=for-the-badge&color=6366f1&labelColor=000000" /></a>
